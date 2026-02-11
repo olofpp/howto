@@ -1,6 +1,9 @@
 # ChromaDB data directory
 chroma_data/
 
+# User database
+users.db
+
 # Python
 __pycache__/
 *.py[cod]
